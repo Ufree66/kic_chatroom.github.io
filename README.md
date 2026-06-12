@@ -3,7 +3,7 @@
 🇬🇧 **English Version**
 
 #### Take a look on the chatroom here:  
-[https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
+(https://super-duper-invention-r74gwpq7xg5rf5vj6-5005.app.github.dev/)
 
 
 #### To create your own chatroom:
@@ -20,9 +20,10 @@
 🇩🇪 **Deutsche Version**
 
 #### Schau dir den Chatroom hier an:  
-[https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
+(https://super-duper-invention-r74gwpq7xg5rf5vj6-5005.app.github.dev/)
 
 #### Möchtest du deinen eigenen Chatroom einrichten? So geht's:
+
 1. Forke dieses Repository (dadurch erhältst du eine Kopie des Projekts in deinem GitHub-Konto).
 2. Klicke in deinem neuen Repository auf die Datei `index.html`, um sie zu öffnen. Dann klicke oben rechts auf das Stiftsymbol (✏️), um die Datei direkt auf GitHub zu bearbeiten.
 3. Suche in `index.html` nach der Stelle, an der die URL festgelegt ist, und ersetze sie durch die URL deines eigenen Chatbots.

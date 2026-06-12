@@ -3,7 +3,7 @@
 🇬🇧 **English Version**
 
 #### Take a look on the chatroom here:  
-(https://super-duper-invention-r74gwpq7xg5rf5vj6-5005.app.github.dev/)
+(https://ufree66.github.io/kic_chatroom.github.io/)
 
 
 #### To create your own chatroom:
@@ -20,7 +20,7 @@
 🇩🇪 **Deutsche Version**
 
 #### Schau dir den Chatroom hier an:  
-(https://super-duper-invention-r74gwpq7xg5rf5vj6-5005.app.github.dev/)
+https://ufree66.github.io/kic_chatroom.github.io/
 
 #### Möchtest du deinen eigenen Chatroom einrichten? So geht's:
 
